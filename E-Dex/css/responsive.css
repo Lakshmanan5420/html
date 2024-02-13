@@ -1,0 +1,554 @@
+/*max 479 and athu kulla  */
+
+@media only screen and (max-width:479px){
+
+.header-text-area h2 {
+    color: #06241B;
+    font-weight: 600;
+    
+    padding-bottom: 15px;
+}
+.second-img::after {
+    content: '';
+    background: url(../images/home/secondimg.png) 0 0 no-repeat;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: -34px;
+    width: 100%;
+    height: 443px;
+}
+.first-img::after {
+    content: '';
+    background: url(../images/home/firstimg.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 100%;
+    height: 443px;
+}
+.line4 {
+    background: url(../images/home/StarFour.png) 0 0 no-repeat;
+    width: 42px;
+    height: 42px;
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 0;
+}
+.line3 {
+    background: url(../images/home/Ellipse 4.png) 0 0 no-repeat;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    position: absolute;
+    top: 132px;
+    left: 0px;
+}
+.line5 {
+    background: url(../images/home/Ellipse 5.png) 0 0 no-repeat;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 600px;
+   left: 0px;
+}
+.line6 {
+    background: url(../images/home/Vector 3.png) 0 0 no-repeat;
+    width: 119px;
+    height: 125px;
+    display: inline-block;
+    position: absolute;
+    top: 168px;
+    left: 0px;
+	display:none;
+}
+.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 154px;
+    left: 18px;
+}
+.small-line::after {
+    content: '';
+    background: url(../images/home/Vector 2.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 206px;
+    left: 116px;
+}
+.line1 {
+    background: url(../images/home/Sparkle.png) 0 0 no-repeat;
+    width: 36px;
+    height: 36px;
+    display: inline-block;
+    position: absolute;
+    top: 76px;
+    right: 30px;
+}
+.box{
+	width:95%!important;
+}
+.box-img{
+	height:100%;
+}
+.slick-next {
+    right: 25px;
+    /* bottom: -16px; */
+}
+.slick-prev {
+    /* left: -18px; */
+    position: absolute;
+    left: 75%;
+}
+.big-line-art2::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+.big-line-art3::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 95px;
+    left: 20px;
+}
+.box-art3 {
+    border: 1px solid #fff;
+    background: #fff;
+    width: 95%;
+    width: 95%!important;
+   height:100%!important;
+    padding: 10px;
+    border-radius: 8px;
+    position: relative;
+}
+.big-line-art4::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 95px;
+    left: 30px;
+}
+.right-star {
+    position: absolute;
+    right: -32px;
+}
+.left-star {
+    position: absolute;
+    left: 5px;
+    top: 248px;
+}
+.right-dot {
+    position: absolute;
+    right: 200px;
+    top: -45px;
+}
+.left-dot {
+    position: absolute;
+    right: 0px;
+    top: 25px;
+}
+.big-line-art5::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 55px;
+    left: 41px;
+    
+}
+.testimonial-1 {
+    padding: 15px;
+    width: 100%!important;
+    height: auto;
+    border-radius: 30px;
+    background-color: #fff;
+    margin: 20px 0px;
+    /* border: 1px solid #0000001A; */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.symbol1-art6 {
+    background: url(../images/home/sym.png)0 0 no-repeat;
+    position: absolute;
+    top: -30px;
+    right: -91px;
+    display: inline-block;
+    z-index: -1;
+    width: 148px;
+    height: 125px;
+	display:none;
+}
+.symbol4-art6 {
+    background: url(../images/home/Ellipse 16.png)0 0 no-repeat;
+    position: absolute;
+    bottom: -37px;
+    bottom: -43px;
+    left: 20px;
+    display: inline-block;
+    z-index: -1;
+    width: 20px;
+    height: 25px;
+}
+.symbol2-art6 {
+    background: url(../images/home/Rectangle 22.png)0 0 no-repeat;
+    position: absolute;
+    top: -29px;
+    right: -3px;
+    display: inline-block;
+    z-index: -1;
+    width: 100%;
+    height: 320px;
+	display:none;
+}
+.symbol3-art6 {
+    background: url(../images/home/Ellipse 15.png)0 0 no-repeat;
+    position: absolute;
+    top: 292px;
+    right: 6px;
+    display: inline-block;
+    z-index: -1;
+    width: 48px;
+    height: 50px;
+}
+.m-backtotop {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    position: fixed;
+    bottom: -50px;
+    right: 42px;
+    width: 50px;
+    height: 50px;
+    background: #222;
+    border-radius: 25px;
+    text-align: center;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    overflow: hidden;
+    color: #fff;
+}
+.slick-dots {
+    position: absolute;
+    bottom: -83px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+}
+
+/* min 480 athuku  mela and max 896 and athu kulla */
+
+/* @media only screen and (max-width:896px) {
+
+.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 99px;
+    left: 210px;
+}
+	
+}*/
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 896px) {
+	
+	.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 99px;
+    left: 210px;
+	}
+	.box {
+    width: 100%!important;
+	}
+	.big-line-art3::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 50px;
+    left: 175px;
+	}
+	.big-line-art4::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 45px;
+    left: 170px;
+}
+.big-line-art5::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 50px;
+    left: 41px;
+    left: 170px;
+}
+.small-line::after {
+    content: '';
+    background: url(../images/home/Vector 2.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 152px;
+    left: 284px;
+}
+	}
+
+@media only screen 
+    and (device-width : 390px) 
+    and (device-height : 844px) {
+	
+	.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 100px;
+    left: 198px;
+}
+.big-line-art5::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 50px;
+    left: 41px;
+    left: 162px;
+}
+	.small-line::after {
+    content: '';
+    background: url(../images/home/Vector 2.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 206px;
+    left: 5px;
+}
+	}
+	
+	@media only screen 
+    and (device-width : 430px) 
+    and (device-height : 932px){
+		.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 100px;
+    left: 210px;
+		}
+		.small-line::after {
+    content: '';
+    background: url(../images/home/Vector 2.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 160px;
+    left: 282px;
+}
+.big-line-art3::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 50px;
+    left: 182px;
+}
+.big-line-art4::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 45px;
+    left: 178px;
+}
+.big-line-art5::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 50px;
+    left: 41px;
+    left: 160px;
+}
+}
+@media only screen 
+    and (device-width : 412px) 
+    and (device-height : 915px){
+	.big-line::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+	}
+	.small-line::after {
+    content: '';
+    background: url(../images/home/Vector 2.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 154px;
+    left: 280px;
+	}
+	.big-line-art3::after {
+    content: '';
+    background: url(../images/home/vec1.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 174px;
+    height: 13px;
+    position: absolute;
+    top: 55px;
+    left: 180px;
+	}
+	.big-line-art4::after {
+		 top: 55px;
+    left: 180px;
+	}
+	.big-line-art5::after {
+		 top: 55px;
+    left: 180px;
+	}
+	}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px){
+.line6 {
+    background: url(../images/home/Vector 3.png) 0 0 no-repeat;
+    width: 119px;
+    height: 125px;
+    display: inline-block;
+    position: absolute;
+    display: none;
+    top: 168px;
+    left: 1105px;
+}
+.line5 {
+    background: url(../images/home/Ellipse 5.png) 0 0 no-repeat;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    position: absolute;
+    top: 600px;
+    left: 761px;
+	}
+	.hover-link {
+    background: url(../images/home/Frame 23.png)0 0 no-repeat;
+   
+    height: 55px;
+}
+	.box{
+		width:95%!important;
+	}
+	.box-img{
+		height:auto!important;
+	}
+	.second-img::after {
+    content: '';
+    background: url(../images/home/secondimg.png) 0 0 no-repeat;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: -34px;
+    width: 100%;
+    height: 100%;
+}
+.first-img::after {
+    content: '';
+    background: url(../images/home/firstimg.png) 0 0 no-repeat;
+    display: inline-block;
+    width: 100%;
+    height: 443px;
+}
+.cus-btn{
+	    width: 100%;
+    padding: 2px;
+	}
+	.slick-prev {
+    /* left: -18px; */
+    position: absolute;
+    left: 79%;
+}
+.testimonial-1 {
+    padding: 15px;
+    width: 100%;
+    width: 455px !important;
+    height: auto;
+    border-radius: 30px;
+    background-color: #fff;
+    margin: 20px 0px;
+    /* border: 1px solid #0000001A; */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.art2-box label {
+    font-size: 12px;
+    /* padding-left: 15px; */
+    font-weight: 400;
+    color: #000;
+}
+.hover-link:hover {
+    background: url(../images/home/hover-link.png)0 0 no-repeat;
+    width: 100%;
+    height: 50px;
+}
+	}
